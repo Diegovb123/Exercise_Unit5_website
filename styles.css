@@ -1,0 +1,12 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    color: navy;
+
+img {
+    width: 300px; /* Cambia el tamaño del ancho */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+}
