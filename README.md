@@ -12,5 +12,7 @@ CSS: For styling the appearance of the webpage.ç
 
 How to Open the Website
 Clone this repository to your local machine using:
+
 by clicking https://github.com/Diegovb123/Exercise_Unit5_website/archive/refs/heads/main.zip
+
 Open the index.html file in your browser to view the website.
